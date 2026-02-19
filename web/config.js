@@ -7,3 +7,5 @@ createApp({
     }
   }
 }).mount('#app')
+
+congig.ps
